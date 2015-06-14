@@ -1,6 +1,6 @@
 <?php
 
-echo "jmail";
+echo "love u arman";
 ?>
 
 
