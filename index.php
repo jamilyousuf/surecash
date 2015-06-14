@@ -1,6 +1,6 @@
 <?php
 
-echo "love u arman";
+echo "fuchka";
 ?>
 
 
